@@ -10,4 +10,4 @@ python-dateutil
 gunicorn
 bugsnag
 blinker
-Werkzeug
+werkzeug==1.0.0
